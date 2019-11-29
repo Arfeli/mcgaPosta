@@ -1,0 +1,19 @@
+body{
+  background-color: blue;
+  color: red;
+  background-image: url("./mundo2.jpg");
+}
+
+div{
+  width: 100%;
+  text-align: center;
+  margin: 15px 0;
+  text-transform: uppercase;
+  font-weight: bold;
+
+}
+
+div.container{
+  display: flex;
+  background-color: red;
+}
